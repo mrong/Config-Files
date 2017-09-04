@@ -3,7 +3,7 @@ source /usr/share/defaults/etc/profile
 
 
 ### Powerline
-source /usr/lib/python2.7/site-packages/powerline/bindings/bash/powerline$
+source /usr/lib/python2.7/site-packages/powerline/bindings/bash/powerline.sh 
 
 
 ### Alias section
