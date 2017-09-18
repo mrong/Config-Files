@@ -30,3 +30,4 @@ alias mkdir='mkdir -pv'
 alias get_publickey='more ~/.ssh/id_rsa.pub | xsel -i --clipboard | echo "=> Public key copied to clipboard"'
 alias get_privatekey='more ~/.ssh/id_rsa | xsel -i --clipboard | echo "=> Private key copied to clipboard"'
 
+alias nano='nano -c'
