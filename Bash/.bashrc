@@ -15,6 +15,7 @@ alias ls='ls --color=auto'
 alias ll='ls -ltr'
 alias lh='ls -lah'
 alias dl='cd /home/miro/Downloads'
+alias ws='cd /home/miro/Workspace'
 
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
