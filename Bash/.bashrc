@@ -32,3 +32,7 @@ alias get_publickey='more ~/.ssh/id_rsa.pub | xsel -i --clipboard | echo "=> Pub
 alias get_privatekey='more ~/.ssh/id_rsa | xsel -i --clipboard | echo "=> Private key copied to clipboard"'
 
 alias nano='nano -c'
+
+alias gits='git status'
+alias gitb='git branch'
+alias gitc='git checkout'
