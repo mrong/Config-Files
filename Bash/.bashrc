@@ -6,6 +6,13 @@ source /usr/share/defaults/etc/profile
 source /usr/lib/python2.7/site-packages/powerline/bindings/bash/powerline.sh 
 
 
+### Golang
+export GOROOT=/opt/go
+export PATH=$PATH:$GOROOT/bin
+export GOPATH=$HOME/Workspace/Golang
+export GOBIN=$HOME/Workspace/Golang/bin
+
+
 ### Alias section
 alias ..='cd ..'
 alias ....='cd ../..'
