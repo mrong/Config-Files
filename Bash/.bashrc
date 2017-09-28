@@ -21,8 +21,11 @@ alias cd-='cd -'
 alias ls='ls --color=auto'
 alias ll='ls -ltr'
 alias lh='ls -lah'
+
 alias dl='cd /home/miro/Downloads'
 alias ws='cd /home/miro/Workspace'
+alias golang='cd /home/miro/Workspace/Golang/src'
+alias webserver='cd /home/miro/Workspace/Webserver'
 
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
