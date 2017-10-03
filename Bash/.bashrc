@@ -46,3 +46,6 @@ alias nano='nano -c'
 alias gits='git status'
 alias gitb='git branch'
 alias gitc='git checkout'
+
+alias wekan-up='docker-compose -f /home/miro/Apps/docker/wekan/docker-compose.yml up -d'
+alias wekan-stop='docker-compose -f /home/miro/Apps/docker/wekan/docker-compose.yml stop'
