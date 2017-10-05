@@ -1,0 +1,56 @@
+Autoweird.fm
+http://autoweird.fm/feed/podcast/feed.xml
+
+Changelog Master Feed 
+https://changelog.com/master/feed
+
+Coder Radio MP3
+http://feeds.feedburner.com/coderradiomp3
+
+Dan Carlin's Hardcore History
+http://feeds.feedburner.com/dancarlin/history?format=xml
+
+Forschung Aktuell - Deutschlandfunk
+http://www.deutschlandfunk.de/podcast-forschung-aktuell.677.de.podcast
+
+Führung auf den Punkt gebracht
+http://www.mehr-fuehren.de/feed/podcast/
+
+Go Gab
+http://www.briefs.fm/go-gab.xml
+
+Go Time
+https://changelog.com/gotime/feed
+
+Hintergrund -Deutschlandfunk
+http://www.deutschlandfunk.de/podcast-hintergrund.725.de.podcast.xml
+
+innoQ Podcast 
+https://www.innoq.com/de/podcast.rss
+
+JS Party
+https://changelog.com/jsparty/feed
+
+Lage der Nation
+https://www.kuechenstud.io/lagedernation/feed/mp3/
+
+Linux Action News
+http://linuxactionnews.com/rss
+
+Linux Unplugged Podcast 
+http://feeds.feedburner.com/linuxunplugged
+
+Mein Scrum ist kaputt
+http://www.meinscrumistkaputt.de/feed/podcast/
+
+Sundays with Solus
+https://solus-project.com/podcasts/sundays-with-solus-mp3.xml
+
+The Changelog 
+https://changelog.com/podcast/feed
+
+The College Info Geek Podcast
+https://rss.simplecast.com/podcasts/98/rss
+
+Zeitmanagement leicht gemacht
+http://blatternet.libsyn.com/rss/
